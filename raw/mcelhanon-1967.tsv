@@ -1,5 +1,5 @@
 ID	Language	Word	Gloss	Annotation	Cognacy
-90452	borong	I	ni	I	1746,094.1ea4
+90452	borong	I	ni	I	094.1ea4
 91684	borong	where	daaŋeŋ	where	
 90466	borong	thou	gi	thou	094.1e80
 91978	borong	(its) flower	dzura-	(its) flower	094.1e04
@@ -39,7 +39,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 92384	borong	(he) blows	uu-	(he) blows	094.354c
 91096	borong	good	auaa	good	
 91502	borong	(his) hand	borok	(his) hand	
-90536	borong	this	I	this	094.1f04
+90536	borong	this	i	this	094.1f04
 91880	borong	(he) cuts	koto-	(he) cuts	
 90606	borong	round	lilik lilik	round	094.1e8b
 92398	borong	(it) swells	somaro-	(it) swells	
@@ -74,12 +74,12 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 91222	borong	water	apuk	water	
 92146	borong	(he) cries	saa-	(he) cries	094.1ef9
 90494	borong	who	moŋ	who	094.1f2a
-92020	borong	worm	genambeŋ	worm	094.1e89
+92020	borong	worm	genambeŋ	worm	
 90550	borong	one	motooŋgok	one	
 91712	borong	and	ano	and	
 90648	borong	(its) claw	kosi-	(its) claw	
 91908	borong	short	torodaamoŋ	short	
-90830	borong	sun	weeŋ	sun	2e3e
+90830	borong	sun	weeŋ	sun	
 91544	borong	(its) foot	kani-	(its) foot	094.1e2d
 91236	borong	smoke	kaasok	smoke	094.1f63
 92244	borong	(his) father	nemuŋ-	(his) father	
@@ -87,7 +87,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 91922	borong	wind	haamok	wind	
 91250	borong	(he) hit him	kpe-	(he) hit him	094.1f2f
 92300	borong	(he) shoots	do-	(he) shoots	
-90858	borong	rain	koŋ	rain	f51
+90858	borong	rain	koŋ	rain	
 91628	borong	(its) bone	siita	(its) bone	094.1f1a
 91264	borong	(he) knows	mo-	(he) knows	094.1dea
 91460	borong	woman	embak	woman	094.1e2b
@@ -98,7 +98,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 90872	borong	(its) belly	keri-	(its) belly	094.1f2c
 91474	borong	man	edzak	man	
 91292	borong	stone	dzamok	stone	
-91642	borong	he	I	he	094.1ec0
+91642	borong	he	i	he	094.1ec0
 91306	borong	mountain	baaŋa	mountain	094.1eb4
 91936	borong	sky	siwek	sky	
 91320	borong	ashes	took	ashes	
@@ -181,7 +181,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 92381	dedua	(he) blows	fifi-	(he) blows	094.354c
 91121	dedua	new	gboria	new	094.1e87
 91989	dedua	(its) fruit	forak-	(its) fruit	094.1e51
-90533	dedua	this	I	this	094.1f04
+90533	dedua	this	i	this	094.1f04
 91877	dedua	(he) cuts	herege-	(he) cuts	094.1f21
 91135	dedua	(it is) dry	kereŋ-	(it is) dry	094.1deb
 92227	dedua	(his) sister	nawiŋ-	(his) sister	
@@ -203,9 +203,9 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 91541	dedua	(its) foot	hani-	(its) foot	094.1e2d
 91191	dedua	(it) burns	dza-	(it) burns	094.1e08
 92129	dedua	(he) sucks	abere-	(he) sucks	
-90463	dedua	thou	ge	thou	094.1e7f
+90463	dedua	thou	ge	thou	094.1e80
 90911	dedua	(its) fat	wokemaŋ-	(its) fat	094.1f56
-91205	dedua	road	siŋ	road	fbc
+91205	dedua	road	siŋ	road	
 91513	dedua	(its) tongue	nameŋ-	(its) tongue	094.1f49
 90631	dedua	(his) knee	fakuruŋ-	(his) knee	
 92255	dedua	(his) mother	neŋgak-	(his) mother	094.1f5c
@@ -218,7 +218,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 90645	dedua	(its) claw	boŋ-	(its) claw	094.1ef0
 91891	dedua	some	go-	some	094.1ecd
 91247	dedua	(he) hit him	kpe-	(he) hit him	094.1f2f
-92339	dedua	clothing	kambaŋ	clothing	094.1de4
+92339	dedua	clothing	kambaŋ	clothing	
 90841	dedua	cloud	kurumeŋ	cloud	
 91821	dedua	(he) pulls	tae-	(he) pulls	
 91261	dedua	(he) knows	negen-	(he) knows	
@@ -245,7 +245,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 91555	dedua	(its) tail	dzi-	(its) tail	094.1ecf
 91345	dedua	(its) leaf	mari-	(its) leaf	
 91933	dedua	sky	kurumeŋ	sky	094.1ef7
-90449	dedua	I	ni	I	1746,094.1ea4
+90449	dedua	I	ni	I	094.1ea4
 91737	dedua	right (side)	foi	right (side)	094.1e75
 91359	dedua	tree	ik	tree	094.1f55
 91471	dedua	man	ŋik	man	094.1e14
@@ -267,7 +267,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 92185	dedua	warm	hâroŋa	warm	094.1f18
 91415	dedua	louse	yomiŋ	louse	094.1e02
 92073	dedua	(its) wing	kpegaŋ-	(its) wing	094.1ead
-90505	dedua	what	dafi	what	094.1e4e
+90505	dedua	what	dafi	what	
 92199	dedua	dull	enarakpak	dull	
 91429	dedua	dog	kasi	dog	094.1f4d
 91751	dedua	left (side)	kana	left (side)	094.1e22
@@ -288,7 +288,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 91968	kate	lake	dzâkâŋ	lake	094.1e71
 90988	kate	(he) sleeps	fo-	(he) sleeps	094.1f39
 91772	kate	(he) holds	ro-	(he) holds	094.1e6b
-90456	kate	I	no	I	1746,094.1ea5
+90456	kate	I	no	I	094.1ea5
 91590	kate	(its) eye	dzâŋe-	(its) eye	094.1eb9
 91002	kate	(he) eats	nâ-	(he) eats	094.207f
 91688	kate	where	wena	where	
@@ -326,7 +326,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 92234	kate	(his) sister	seŋ-	(his) sister	094.1eaa
 91128	kate	new	gbâricne	new	094.1e87
 91912	kate	short	bembeŋ	short	094.1f25
-90526	kate	that	I	that	1275
+90526	kate	that	i	that	
 92402	kate	(it) swells	siwiŋne-	(it) swells	094.1edc
 91142	kate	(it is) dry	kereŋke-	(it is) dry	094.1deb
 91786	kate	(he) falls	waha-	(he) falls	094.1e20
@@ -352,17 +352,17 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 91800	kate	(he) turns	bârisie-	(he) turns	094.1e65
 91226	kate	water	opâ	water	
 91520	kate	(its) tongue	nameŋ-	(its) tongue	094.1f49
-90834	kate	sun	dzoaŋ	sun	2f20
+90834	kate	sun	dzoaŋ	sun	
 92346	kate	clothing	kporuc	clothing	094.1de6
 91240	kate	smoke	hosâc	smoke	094.1f63
-92024	kate	worm	gbasu	worm	094.1e89
+92024	kate	worm	gbasu	worm	094.1e0f
 90638	kate	(his) knee	dieŋ	(his) knee	094.1e85
 92290	kate	rope	muc	rope	
 91254	kate	(he) hit him	kpa-	(he) hit him	094.1f2f
 91898	kate	some	gâc-	some	094.1ecd
 90848	kate	cloud	karorac	cloud	
 92178	kate	old	raŋgbaŋ	old	094.1ef5
-90470	kate	thou	go	thou	094.1e7f,1972
+90470	kate	thou	go	thou	094.1e7f
 92164	kate	(he) spits	tâfec-	(he) spits	094.1e9f
 91268	kate	(he) knows	mana-	(he) knows	094.1de8
 91996	kate	(its) fruit	fâric-	(its) fruit	094.1e51
@@ -434,7 +434,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 91823	komba	(he) pulls	oloŋ-	(he) pulls	094.1e83
 91025	komba	black	sumun sumun	black	
 91949	komba	dust	isak	dust	094.1f1f
-90731	komba	all	aksik	all	25
+90731	komba	all	aksik	all	
 91865	komba	(he) digs	keda-	(he) digs	094.1ec8
 91039	komba	green	wâhân wâhân	green	
 92271	komba	(she) sews	gare-	(she) sews	094.1f61
@@ -450,7 +450,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 92369	komba	spear	ligip	spear	094.1e9e
 91067	komba	red	kuriŋ	red	094.1e7b
 92341	komba	clothing	pet	clothing	094.1e13
-91431	komba	dog	wau	dog	2e3c
+91431	komba	dog	wau	dog	
 91543	komba	(its) foot	ki-	(its) foot	094.1e1c
 91081	komba	yellow	gibaŋ gibaŋ	yellow	094.1e33
 91991	komba	(its) fruit	bon-	(its) fruit	094.1e53
@@ -482,7 +482,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 91613	komba	(its) head	kauk-	(its) head	094.1e4c
 91165	komba	(its) name	kut-	(its) name	094.1e09
 92117	komba	(he) laughs	girâŋ-	(he) laughs	094.1ede
-90801	komba	small	mâiktâ	small	10cf
+90801	komba	small	mâiktâ	small	
 92005	komba	stick	kabam	stick	094.1e29
 90535	komba	this	zi	this	094.1f03
 90913	komba	(its) fat	kelâk-	(its) fat	094.1f57
@@ -494,11 +494,11 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 92215	komba	(his) brother	ata-	(his) brother	094.1e94
 90633	komba	(his) knee	simin-	(his) knee	094.1e84
 92131	komba	(he) sucks	musuku-	(he) sucks	094.1e82
-91207	komba	road	mâtâp	road	fb2
+91207	komba	road	mâtâp	road	
 91893	komba	some	nâbut-	some	094.1ecc
-91445	komba	bird	ni	bird	34a2
+91445	komba	bird	ni	bird	094.34a2
 91697	komba	how	ikâi azo	how	
-90493	komba	who	ŋâi	who	1cab
+90493	komba	who	ŋâi	who	
 92257	komba	(his) mother	mam-	(his) mother	094.1e23
 91221	komba	water	to	water	094.1f32
 91767	komba	(he) holds	mi-	(he) holds	094.1e6a
@@ -508,12 +508,12 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 91921	komba	wind	berom	wind	094.1ecb
 91249	komba	(he) hit him	ku-	(he) hit him	094.1f2d
 92201	komba	dull	palâmŋâ	dull	094.1f3f
-90843	komba	cloud	sasa	cloud	325
+90843	komba	cloud	sasa	cloud	
 92299	komba	(he) shoots	zer-	(he) shoots	094.1f58
 90647	komba	(its) claw	pakit-	(its) claw	094.1ef1
 92173	komba	old	sobâ	old	094.1ec2
 91235	komba	smoke	mudo	smoke	
-92033	komba	snake	mulum	snake	1111
+92033	komba	snake	mulum	snake	
 91263	komba	(he) knows	naga-	(he) knows	094.1de9
 91641	komba	he	zâk	he	094.1ebf
 91529	komba	(its) tooth	sât-	(its) tooth	094.1f5e
@@ -555,13 +555,13 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 90941	komba	(its) hair	sâmot-	(its) hair	094.1f42
 90689	komba	(he) sits	ta-	(he) sits	094.1f0a
 90507	komba	what	wan	what	094.1e4f
-90955	komba	(he) dies	mu-	(he) dies	34a7,094.1ef3
+90955	komba	(he) dies	mu-	(he) dies	094.1ef3
 91487	komba	(its) blood	sep-	(its) blood	094.1f5d
 90479	komba	we	nen	we	094.1f50
 90969	komba	(he) sees me	nek-	(he) sees me	094.1ee2
 91899	kube	some	tose-	some	094.1ece
 90919	kube	(its) fat	harek	(its) fat	094.1f57
-92347	kube	clothing	obo	clothing	094.1de4
+92347	kube	clothing	obo	clothing	094.1de5
 90975	kube	(he) sees me	ni-	(he) sees me	094.1ee1
 92067	kube	(its) back	gemagi-	(its) back	094.1e38
 90709	kube	(he) gives me	nen-	(he) gives me	094.1ed7
@@ -646,7 +646,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 91983	kube	(its) flower	dzuri-	(its) flower	094.1e04
 91213	kube	road	hena	road	094.1f66
 91941	kube	sky	kuglumeŋ	sky	094.1ef7
-90541	kube	this	I	this	094.1f04
+90541	kube	this	i	this	094.1f04
 92179	kube	old	wahara	old	094.1ebe
 91227	kube	water	doku	water	094.1f31
 91801	kube	(he) turns	meren-	(he) turns	094.1e66
@@ -656,7 +656,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 91843	kube	(he) pushes	igokge-	(he) pushes	
 91255	kube	(he) hit him	kpe-	(he) hit him	094.1f2f
 92403	kube	(it) swells	boŋge-	(it) swells	094.1f09
-90457	kube	I	ni	I	1746,094.1ea4
+90457	kube	I	ni	I	094.1ea4
 91689	kube	where	dimia	where	094.1eaf
 90849	kube	cloud	hosesu	cloud	094.1dfe
 92375	kube	spear	regik	spear	094.1e9e
@@ -680,7 +680,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 90877	kube	(its) belly	tomeŋ-	(its) belly	
 90555	kube	one	momakgu	one	094.1ec7
 91325	kube	ashes	homa	ashes	094.1e68
-91647	kube	he	I	he	094.1ec0
+91647	kube	he	i	he	094.1ec0
 90667	kube	breast	namu-	breast	094.1e96
 91339	kube	earth	baek	earth	094.1e7c
 91353	kube	(its) leaf	hareŋ-	(its) leaf	094.1ed3
@@ -766,7 +766,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 92246	mape	(his) father	mama-	(his) father	094.4a8
 90790	mape	big	yasogo	big	
 91784	mape	(he) falls	waki-	(he) falls	094.1e20
-90454	mape	I	no	I	1746,094.1ea5
+90454	mape	I	no	I	094.1ea5
 92064	mape	(its) back	ŋari-	(its) back	
 91154	mape	cold	mâteŋne	cold	094.1f44
 91924	mape	wind	mâŋuŋ	wind	094.1eae
@@ -780,7 +780,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 92050	mape	animal	dzomak	animal	
 90804	mape	small	mendakne	small	
 92036	mape	snake	kobeŋ	snake	
-90468	mape	thou	go	thou	1972,094.1e7f
+90468	mape	thou	go	thou	094.1e7f
 92372	mape	spear	dzigâ	spear	
 91280	mape	sand	mageŋ	sand	094.1e99
 91812	mape	(he) throws	wâke-	(he) throws	
@@ -795,7 +795,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 91448	mape	bird	wârâ	bird	
 91770	mape	(he) holds	ro-	(he) holds	094.1e6b
 90818	mape	star	bâpiŋ	star	094.1e3a
-91210	mape	road	kari	road	fc1
+91210	mape	road	kari	road	
 90636	mape	(his) knee	dieŋ	(his) knee	094.1e85
 91224	mape	water	owu	water	094.1f26
 90832	mape	sun	wegi	sun	
@@ -809,8 +809,8 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 91532	mape	(its) tooth	misiâ-	(its) tooth	
 90846	mape	cloud	gâweŋ	cloud	
 91630	mape	(its) bone	siak-	(its) bone	094.1f1a
-91644	mape	he	I	he	094.1ec0
-90860	mape	rain	kue	rain	195c,094.1ed9
+91644	mape	he	i	he	094.1ec0
+90860	mape	rain	kue	rain	094.1ed9
 91728	mape	there	aroo	there	
 91294	mape	stone	kâk	stone	094.1e55
 91308	mape	mountain	tiki	mountain	094.1eb2
@@ -834,7 +834,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 90566	mape	two	yoyokak	two	094.1e07
 90944	mape	(its) hair	kaŋdzaŋ-	(its) hair	
 91574	mape	(its) meat	biu-	(its) meat	094.1f12
-90552	mape	one	mokotonŋ	one	
+90552	mape	one	mokotoŋ	one	
 91756	mape	left (side)	kpana	left (side)	094.1e22
 90692	mape	(he) sits	ŋe-	(he) sits	094.1f0b
 91658	mape	ye	ŋoŋai	ye	094.1f1d
@@ -934,7 +934,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 91218	mesem	water	tu	water	094.1f32
 90826	mesem	sun	kəsu	sun	
 91526	mesem	(its) tooth	dzət-	(its) tooth	094.1f5e
-91232	mesem	smoke	kEsE	smoke	094.1f63
+91232	mesem	smoke	kəsə	smoke	094.1f63
 90924	mesem	(its) neck	andeŋ	its neck	094.1f05
 90840	mesem	cloud	kumbu	cloud	
 91638	mesem	he	lə	he	094.1ebf
@@ -963,8 +963,8 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 91470	mesem	man	ą	man	094.1e15
 91358	mesem	tree	tə	tree	094.1e9b
 90896	mesem	(its) heart	wembə kət-	(its) heart	
-91666	mesem	they	lene	they	094.1f10
-90672	mesem	(he) comes	ko-	(he) comes	1eee
+91666	mesem	they	lene	they	
+90672	mesem	(he) comes	ko-	(he) comes	
 91372	mesem	(its) root	kindiri-	(its) root	094.1e58
 90560	mesem	two	dzeba	two	
 91386	mesem	(its) seed	kət-	(its) seed	094.1e6e
@@ -1034,7 +1034,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 92097	nabak	(its) breath	emetək	(its) breath	
 91075	nabak	red	ŋaməŋ	red	
 92279	nabak	(she) sews	ou-	(she) sews	
-90487	nabak	we	nin	we	1abc,094.1f50
+90487	nabak	we	nin	we	094.1f50
 92223	nabak	(his) brother	dat-	(his) brother	094.1e93
 91089	nabak	yellow	araraŋ	yellow	094.1e37
 92013	nabak	stick	wandzom	stick	
@@ -1049,7 +1049,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 91607	nabak	(its) skin	sək-	(its) skin	094.1f16
 91663	nabak	ye	in	ye	094.1f1b
 91117	nabak	hot	tedzin	hot	094.1e42
-90529	nabak	that	ke	that	5fe
+90529	nabak	that	ke	that	
 90613	nabak	round	kililiŋ	round	
 90781	nabak	long	teepməŋ	long	
 91131	nabak	new	arakŋəŋ	new	094.1e88
@@ -1069,7 +1069,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 91523	nabak	(its) tongue	nambaram-	(its) tongue	094.1f48
 91271	nabak	(he) knows	nɔi-	(he) knows	
 90823	nabak	star	wenzim	star	
-91215	nabak	road	set	road	fb4
+91215	nabak	road	set	road	
 91621	nabak	(its) head	ŋokandzi-	(its) head	094.1e4b
 90557	nabak	one	kpep	one	094.1ec5
 91845	nabak	(he) pushes	ɔtɔpe-	(he) pushes	
@@ -1077,7 +1077,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 90543	nabak	this	kapi	this	
 91635	nabak	(its) bone	kandziŋ-	(its) bone	
 90837	nabak	sun	kəsuk	sun	
-91243	nabak	smoke	kEsEk	smoke	094.1f63
+91243	nabak	smoke	kəsək	smoke	094.1f63
 90459	nabak	I	nəŋ	I	094.1ea5
 91285	nabak	sand	gambibit	sand	
 91257	nabak	(he) hit him	ku-	(he) hit him	094.1f2d
@@ -1120,7 +1120,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 90697	nabak	(he) sits	ta-	(he) sits	094.1f0a
 90963	nabak	(he) dies	gəki-	(he) dies	094.1ef6
 92280	ono	rope	ranom	rope	
-90460	ono	thou	ge	thou	1e7f,094.1e80
+90460	ono	thou	ge	thou	094.1e80
 92126	ono	(he) sucks	muzuluki-	(he) sucks	094.1e82
 90978	ono	(he) sleeps	pa-	(he) sleeps	
 92266	ono	(she) sews	gbetut-	(she) sews	094.1f28
@@ -1191,7 +1191,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 91132	ono	(it is) dry	dzipki-	(it is) dry	094.1ded
 91356	ono	tree	eki	tree	
 90614	ono	(it is) full	watgi	(it is) full	
-90530	ono	this	I	this	094.1f04
+90530	ono	this	i	this	094.1f04
 91146	ono	cold	momoine	cold	
 90894	ono	(its) heart	kombaŋi-	(its) heart	
 91608	ono	(its) head	lewit-	(its) head	
@@ -1208,7 +1208,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 91524	ono	(its) tooth	ŋet-	(its) tooth	
 91622	ono	(its) bone	set-	(its) bone	094.1f1a
 91342	ono	(its) leaf	meti-	(its) leaf	
-91202	ono	road	numa	road	2d1d
+91202	ono	road	numa	road	
 91412	ono	louse	emen	louse	094.1e02
 90824	ono	sun	kaiwe	sun	094.1e4a
 92028	ono	snake	koma	snake	094.1e27
@@ -1221,7 +1221,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 91244	ono	(he) hit him	kpe-	(he) hit him	094.1f2f
 90656	ono	breast	ŋamu-	breast	094.1e96
 90642	ono	(its) claw	zolip-	(its) claw	
-91916	ono	wind	momo	wind	094.1ed2
+91916	ono	wind	momo	wind	
 90544	ono	one	weku	one	
 91258	ono	(he) knows	deri-	(he) knows	
 91272	ono	sand	gbalak	sand	
@@ -1238,7 +1238,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 91468	ono	man	ŋei	man	094.1e14
 91636	ono	he	e	he	094.1ec0
 91832	ono	(he) pushes	bira-	(he) pushes	
-91846	ono	(he) washes	sauk-	(he) washes	094.1f37
+91846	ono	(he) washes	sauk-	(he) washes	
 90670	ono	(he) comes	sa-	(he) comes	
 92056	ono	(its) back	romo-	(its) back	
 91482	ono	(its) blood	weŋemi-	(its) blood	
@@ -1268,7 +1268,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 92323	selepet	(they) play	heŋ	(they) play	
 90979	selepet	(he) sleeps	i-	(he) sleeps	094.1f3c
 92295	selepet	(he) shoots	yer-	(he) shoots	094.1f58
-90951	selepet	(he) dies	mu-	(he) dies	094.1ef3,34a7
+90951	selepet	(he) dies	mu-	(he) dies	094.1ef3
 92337	selepet	clothing	pet	clothing	094.1e13
 90867	selepet	(its) belly	tep-	(its) belly	094.1f2e
 92281	selepet	rope	ip	rope	
@@ -1297,7 +1297,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 90517	selepet	that	ya	that	094.1edb
 91973	selepet	(its) flower	suri-	(its) flower	094.1e04
 91035	selepet	green	golâ	green	094.1e48
-91427	selepet	dog	soso	dog	387
+91427	selepet	dog	soso	dog	
 92099	selepet	(he) vomits	mohat-	(he) vomits	094.1e45
 90447	selepet	I	nâ	I	094.1ea5
 91049	selepet	white	kaok	white	094.1e30
@@ -1348,16 +1348,16 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 90629	selepet	(his) knee	pawut-	(his) knee	094.1e86
 91273	selepet	sand	sak	sand	094.1e98
 91903	selepet	short	tâlâwâk	short	094.1f24
-91203	selepet	road	giop	road	2d1d
+91203	selepet	road	giop	road	
 90937	selepet	(its) hair	somot-	(its) hair	094.1f42
 91525	selepet	(its) tooth	sât-	(its) tooth	094.1f5e
 91343	selepet	(its) leaf	esen-	(its) leaf	094.1ed5
-91217	selepet	water	5o	water	094.1f32
+91217	selepet	water	to	water	094.1f32
 90825	selepet	sun	dewutâ	sun	
 92155	selepet	(he) spits	tâp-	(he) spits	094.1ea1
 91413	selepet	louse	imen	louse	094.1e02
 91805	selepet	(he) throws	pila-	(he) throws	
-91665	selepet	they	yâk	they	1f10,094.1f11
+91665	selepet	they	yâk	they	094.1f11
 91931	selepet	sky	hibim	sky	094.1efa
 91245	selepet	(he) hit him	ku-	(he) hit him	094.1f2d
 90839	selepet	cloud	elem	cloud	
@@ -1365,7 +1365,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 91581	selepet	(its) eye	sen-	(its) eye	094.1eb7
 90545	selepet	one	konok	one	094.1ec4
 91917	selepet	wind	berom	wind	094.1ecb
-91231	selepet	smoke	utun	smoke	10ee
+91231	selepet	smoke	utun	smoke	
 91455	selepet	woman	ibi	woman	094.1e2b
 91721	selepet	there	eda	there	094.1e1a
 92043	selepet	animal	sogo	animal	094.1f38
@@ -1457,7 +1457,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 90609	burum	round	lambâ	round	
 90777	burum	long	kâripŋi	long	094.1def
 91995	burum	(its) fruit	lâwât-	(its) fruit	
-91603	burum	(its) skin	sile-	(its) skin	094.1f17
+91603	burum	(its) skin	sile-	(its) skin	094.1f15
 91127	burum	new	dâlâkŋi	new	094.1e88
 90483	burum	we	nini	we	094.1f50
 91785	burum	(he) falls	he-	(he) falls	094.1e1f
@@ -1479,14 +1479,14 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 91197	burum	(it) burns	dze-	(it) burns	094.1e08
 91617	burum	(its) head	noruk-	(its) head	094.1eba
 90819	burum	star	seŋgeleu	star	094.1e3b
-90539	burum	this	ke	this	12e4
+90539	burum	this	ke	this	
 92149	burum	(he) cries	saha-	(he) cries	094.1ef9
 91715	burum	and	mi	and	094.1e62
 91211	burum	road	kâna	road	094.1f66
 92023	burum	worm	maŋgik	worm	
-90455	burum	I	ni	I	094.1ea4,1746
+90455	burum	I	ni	I	094.1ea4
 91449	burum	bird	nei	bird	094.34a2
-91225	burum	water	ou	water	a96,094.1f26
+91225	burum	water	ou	water	094.1f26
 90637	burum	(his) knee	simin-	(his) knee	094.1e84
 92177	burum	old	walakŋi	old	094.1ebe
 91407	burum	(its) ear	ketsap-	(its) ear	094.1ebc
@@ -1513,10 +1513,10 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 91323	burum	ashes	kau	ashes	094.1e69
 91267	burum	(he) knows	ma-	(he) knows	094.1dea
 91463	burum	woman	ambi	woman	094.1e2b
-91925	burum	wind	luhut	wind	1eac,094.1ed2
+91925	burum	wind	luhut	wind	094.1eac
 91729	burum	there	endu	there	094.1e1a
 91561	burum	(its) tail	dai-	(its) tail	094.1ecf
-91645	burum	he	I	he	094.1ec0
+91645	burum	he	i	he	094.1ec0
 91337	burum	earth	gâlme	earth	
 90889	burum	(its) nose	sâhârâ-	(its) nose	094.1f53
 91827	burum	(he) pulls	arâ-	(he) pulls	094.1e83
@@ -1591,7 +1591,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 90604	mindik	round	lilik lilik	round	094.1e8b
 91094	mindik	good	âlipŋi	good	094.1e5c
 90898	mindik	(its) heart	wel bât-	(its) heart	094.1f30
-90450	mindik	I	ni	I	1746,094.1ea4
+90450	mindik	I	ni	I	094.1ea4
 92242	mindik	(his) father	mam-	(his) father	094.4a8
 91108	mindik	hot	kânâp	hot	094.1e43
 90856	mindik	rain	kie	rain	094.1ed9
@@ -1632,13 +1632,13 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 92270	mindik	(she) sews	ume-	(she) sews	094.1f62
 91906	mindik	short	târâp-	short	094.1f24
 91528	mindik	(its) tooth	dzât-	(its) tooth	094.1f5e
-91220	mindik	water	ou	water	a96,094.1f26
+91220	mindik	water	ou	water	094.1f26
 90562	mindik	two	wâit	two	094.1e05
 90828	mindik	sun	wehon	sun	094.1e49
 92312	mindik	(he) counts	oyon-	(he) counts	094.1e12
 91626	mindik	(its) bone	sihit-	(its) bone	094.1f1a
 91836	mindik	(he) pushes	meakpo-	(he) pushes	
-91920	mindik	wind	luhut	wind	1eac,094.1ed2
+91920	mindik	wind	luhut	wind	094.1eac
 91332	mindik	earth	baloŋ	earth	
 92284	mindik	rope	kisa	rope	094.1e0e
 91822	mindik	(he) pulls	hârâ-	(he) pulls	094.1e83
@@ -1659,7 +1659,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 91458	mindik	woman	ambi	woman	094.1e2b
 91556	mindik	(its) tail	lou-	(its) tail	
 91724	mindik	there	endu	there	094.1e1a
-91640	mindik	he	I	he	094.1ec0
+91640	mindik	he	i	he	094.1ec0
 91738	mindik	right (side)	hâl	right (side)	094.1e74
 91934	mindik	sky	kurumen	sky	094.1ef7
 91472	mindik	man	aiwi	man	
@@ -1685,7 +1685,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 92077	timbe	(its) wing	bâbâlâm-	(its) wing	
 91601	timbe	(its) skin	hâk-	(its) skin	094.1f16
 90705	timbe	(he) gives me	niŋ-	(he) gives me	094.1ed6
-91671	timbe	they	yâk	they	094.1f10
+91671	timbe	they	yâk	they	094.1f11
 91993	timbe	(its) fruit	bun-	(its) fruit	094.1e53
 90985	timbe	(he) sleeps	ye-	(he) sleeps	094.1f3c
 92357	timbe	work	nep	work	094.1e17
@@ -1758,7 +1758,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 90565	timbe	two	lâuwâ	two	
 91615	timbe	(its) head	kaut-	(its) head	094.1e4c
 91181	timbe	not	bo	not	
-90537	timbe	this	I	this	094.1f04
+90537	timbe	this	i	this	094.1f04
 91279	timbe	sand	sak	sand	094.1e98
 91349	timbe	(its) leaf	esen-	(its) leaf	094.1ed5
 91195	timbe	(it) burns	o-	(it) burns	
@@ -1808,7 +1808,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 90481	timbe	we	nen	we	094.1f50
 92063	timbe	(its) back	hame-	(its) back	
 91237	timbe	smoke	dâwok	smoke	
-91853	timbe	(he) washes	puli-	(he) washes	
+91853	timbe	(he) washes	puli-	(he) washes	094.1f37
 91307	timbe	mountain	gibâŋe	mountain	094.1eb5
 92189	timbe	warm	utunŋe utudâk	warm	
 91951	timbe	dust	gahap	dust	094.1f20
@@ -1821,7 +1821,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 90971	timbe	(he) sees me	nek-	(he) sees me	094.1ee2
 92208	tobo	dull	dzerakpa	dull	094.1ee8
 90976	tobo	(he) sees me	nen-	(he) sees me	094.1ee0
-90458	tobo	I	ni	I	1746,094.1ea4
+90458	tobo	I	ni	I	094.1ea4
 92082	tobo	(its) wing	kpegam-	(its) wing	094.1ead
 90710	tobo	(he) gives me	nem-	(he) gives me	094.1ed7
 90990	tobo	(he) sleeps	gâohe-	(he) sleeps	
@@ -1863,7 +1863,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 90654	tobo	(its) claw	kawân-	(its) claw	
 91088	tobo	yellow	gbaot gbaot	yellow	094.1e35
 92390	tobo	(he) blows	hi-	(he) blows	094.354c
-91452	tobo	bird	ni	bird	34a2
+91452	tobo	bird	ni	bird	094.34a2
 90766	tobo	night	siŋiaha	night	094.1e40
 91102	tobo	good	eha	good	
 90920	tobo	(its) fat	kalak-	(its) fat	094.1f57
@@ -1934,7 +1934,7 @@ ID	Language	Word	Gloss	Annotation	Cognacy
 91830	tobo	(he) pulls	mâsâl-	(he) pulls	
 90500	tobo	who	mâŋ	who	094.1f2a
 91326	tobo	ashes	kama	ashes	094.1e68
-91648	tobo	he	I	he	094.1ec0
+91648	tobo	he	i	he	094.1ec0
 92166	tobo	(he) spits	sotkân-	(he) spits	
 91256	tobo	(he) hit him	kpe-	(he) hit him	094.1f2f
 92040	tobo	snake	kemala	snake	
