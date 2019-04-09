@@ -19,7 +19,7 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "pyglottolog-1.2.0-3-g0c317cdda7",
+                "glottolog_version": "v3.4",
                 "concepticon_version": "v2.0"
             }
         }
