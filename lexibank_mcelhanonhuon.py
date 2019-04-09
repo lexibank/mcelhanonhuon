@@ -26,6 +26,10 @@ class Dataset(BaseDataset):
         # data are already in raw/ --> NOOP
         pass
 
+    def iter_raw_lexemes(self):
+        for row in self.raw.read_tsv("mcelhanon-1967.tsv", dicts=True):
+            yield self.clean_form(row, row['Gloss'])
+
     def cmd_install(self, **kw):
         """
         Convert the raw data to a CLDF dataset.
