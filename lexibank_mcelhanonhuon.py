@@ -1,4 +1,5 @@
 from clldutils.path import Path
+from clldutils.misc import slug
 from pylexibank.dataset import Dataset as BaseDataset
 
 
@@ -37,23 +38,14 @@ class Dataset(BaseDataset):
         with self.cldf as ds:
             ds.add_sources()
             ds.add_languages()
-            
-            concepts = {}
-            for c in self.conceptlist.concepts.values():
-                ds.add_concept(
-                    ID=c.concepticon_id,
-                    Name=c.english,
-                    Concepticon_ID=c.concepticon_id,
-                    Concepticon_Gloss=c.concepticon_gloss
-                )
-                concepts[c.english] = c.concepticon_id
-            
+            ds.add_concepts(id_factory=lambda c: slug(c.english))
+ 
             cog = CognateRenumber()
             for row in self.raw.read_tsv("mcelhanon-1967.tsv", dicts=True):
                 for o in ds.add_lexemes(
                     Local_ID=row['ID'],
                     Language_ID=row['Language'],
-                    Parameter_ID=concepts[row['Word']],
+                    Parameter_ID=slug(row['Word']),
                     Value=row['Gloss'],
                     Form=self.clean_form(row, row['Gloss']),
                     Source='McElhanon1967',
