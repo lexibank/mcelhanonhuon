@@ -1,6 +1,7 @@
-from clldutils.path import Path
+from pathlib import Path
 from clldutils.misc import slug
-from pylexibank.dataset import Dataset as BaseDataset
+from pylexibank import Dataset as BaseDataset
+from pylexibank import FormSpec
 
 
 class CognateRenumber(object):
@@ -23,42 +24,43 @@ class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "mcelhanonhuon"
 
-    def cmd_download(self, **kw):
-        # data are already in raw/ --> NOOP
-        pass
-
-    def iter_raw_lexemes(self):
-        for row in self.raw.read_tsv("mcelhanon-1967.tsv", dicts=True):
-            yield self.clean_form(row, row['Gloss'])
-
-    def cmd_install(self, **kw):
+    form_spec = FormSpec(missing_data=('-', ''))
+    
+    def cmd_makecldf(self, args):
         """
         Convert the raw data to a CLDF dataset.
         """
-        with self.cldf as ds:
-            ds.add_sources()
-            ds.add_languages()
-            ds.add_concepts(id_factory=lambda c: slug(c.english))
- 
-            cog = CognateRenumber()
-            for row in self.raw.read_tsv("mcelhanon-1967.tsv", dicts=True):
-                for o in ds.add_lexemes(
-                    Local_ID=row['ID'],
-                    Language_ID=row['Language'],
-                    Parameter_ID=slug(row['Word']),
-                    Value=row['Gloss'],
-                    Form=self.clean_form(row, row['Gloss']),
-                    Source='McElhanon1967',
-                    Comment=row['Annotation']
-                ):
-                    cognates = row['Cognacy'].split(",")
-                    if len(cognates) == 0:
-                        # singleton
-                        c = ds.add_cognate(lexeme=o, Cognateset_ID=cog.get_cogid())
-                    elif len(cognates) == 1:
-                        c = ds.add_cognate(lexeme=o, Cognateset_ID=cog.get_cogid(cognates[0]))
-                    else:
-                        # check that we haven't left any cognates that are NOT from
-                        # McElhanon in the raw data
-                        raise ValueError("Multiple cognates per lexeme are not handled")
-                    o['Cognacy'] = c['Cognateset_ID']
+        args.writer.add_sources()
+        languages = args.writer.add_languages(
+            lookup_factory=lambda l: l['ID'].lower()  # lower case in raw data, so title case
+        )
+        concepts = args.writer.add_concepts(
+            id_factory=lambda c: c.id.split('-')[-1]+ '_' + slug(c.english),
+            lookup_factory="Name"
+        )
+
+        cog = CognateRenumber()
+
+        for row in self.raw_dir.read_csv("mcelhanon-1967.tsv", dicts=True, delimiter="\t"):
+            lex = args.writer.add_forms_from_value(
+                Local_ID=row['ID'],
+                Language_ID=languages[row['Language']],
+                Parameter_ID=concepts[row['Word']],
+                Value=row['Gloss'],
+                Comment=row['Annotation'],
+                Source='McElhanon1967'
+            )
+            
+            cognates = row['Cognacy'].split(",")
+            
+            if len(cognates) == 0:
+                # singleton
+                cog_id = cog.get_cogid()
+            elif len(cognates) == 1:
+                cog_id = cog.get_cogid(cognates[0])
+            else:
+                raise ValueError("Multiple cognates per lexeme are not handled")
+            
+            assert len(lex) == 1, "Should only have one lexeme"
+            args.writer.add_cognate(lexeme=lex[0], Cognateset_ID=cog_id, Source="McElhanon1967")
+

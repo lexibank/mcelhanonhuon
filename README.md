@@ -8,9 +8,9 @@ This dataset is licensed under a CC-BY license
 
 Available online at http://transnewguinea.org/source/mcelhanon-1967
 
-Conceptlists in Concepticon:
-- [McElhanon-1967-140](http://concepticon.clld.org/contributions/McElhanon-1967-140)
 
+Conceptlists in Concepticon:
+- [McElhanon-1967-140](https://concepticon.clld.org/contributions/McElhanon-1967-140)
 ## Statistics
 
 
@@ -24,6 +24,7 @@ Conceptlists in Concepticon:
 - **Varieties:** 14
 - **Concepts:** 140
 - **Lexemes:** 1,960
+- **Sources:** 1
 - **Synonymy:** 1.00
 - **Cognacy:** 1,960 cognates in 949 cognate sets (562 singletons)
 - **Cognate Diversity:** 0.44
