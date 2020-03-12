@@ -56,8 +56,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 55_road,road,667,ROAD
 56_water,water,948,WATER
 57_smoke,smoke,778,SMOKE (EXHAUST)
-58_hehithim,(he) hit him,353,STRIKE
-59_heknows,(he) knows,1410,KNOW (SOMETHING)
+58_hehithim,(he) hit him,3308,STRIKE (SOMEONE)
+59_heknows,(he) knows,3626,KNOW
 60_sand,sand,671,SAND
 61_stone,stone,857,STONE
 62_mountain,mountain,639,MOUNTAIN

@@ -1,35 +1,34 @@
-Grapheme	frequency	IPA
--	936	-
-a	903	a
-i	801	i
-e	721	e
-k	700	k
-o	525	o
-n	469	n
-â	463	â
-ŋ	425	ŋ
-m	411	m
-u	394	u
-t	318	t
-s	313	s
-g	292	g
-d	280	d
-r	275	r
-p	265	p
-b	211	b
-l	190	l
-z	174	z
-w	172	w
-h	154	h
-ə	105	ə
-y	58	y
-f	46	f
- 	46	 
-c	43	c
-ɔ	8	ɔ
-ą	4	ą
-ṇ	3	ṇ
-ŋ̣	3	ŋ̣
-į	3	į
-ṃ	2	ṃ
-ọ	1	ọ
+Grapheme	IPA	SCA	TYPES	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES	frequency
+-	+	_	Marker	936	U+002D	"bet-,dziŋgəŋgəŋ-,gum kət-"	Borong,Burum,Dedua,Kate,Komba,Kube,Mape,Mesem,Mindik,Nabak,Ono,Selepet,Timbe,Tobo	936
+a	a	A	Vowel	903	U+0061	"kama,sâhap,wania"	Borong,Burum,Dedua,Kate,Komba,Kube,Mape,Mesem,Mindik,Nabak,Ono,Selepet,Timbe,Tobo	903
+b	b	P	Consonant	211	U+0062	"kumbu,soŋgbaŋ-,ârâŋbârik"	Borong,Burum,Dedua,Kate,Komba,Kube,Mape,Mesem,Mindik,Nabak,Ono,Selepet,Timbe,Tobo	211
+c	c	C	Consonant	43	U+0063	"dzoc,karorac,kpitsec-"	Kate,Mape	43
+d	d	T	Consonant	280	U+0064	"dasoŋ,dzâl-,edi"	Borong,Burum,Dedua,Kate,Komba,Kube,Mape,Mesem,Mindik,Nabak,Ono,Selepet,Timbe,Tobo	280
+e	e	E	Vowel	721	U+0065	"enar-,nade-,sue-"	Borong,Burum,Dedua,Kate,Komba,Kube,Mape,Mesem,Mindik,Nabak,Ono,Selepet,Timbe,Tobo	721
+f	f	B	Consonant	46	U+0066	"fakec-,fe-,fəki-"	Dedua,Kate,Kube,Mape,Mesem	46
+g	g	K	Consonant	292	U+0067	"gawâŋ gawâŋ,gbâtâ-,gârâkŋi"	Borong,Burum,Dedua,Kate,Komba,Kube,Mape,Mesem,Mindik,Nabak,Ono,Selepet,Timbe,Tobo	292
+h	h	H	Consonant	154	U+0068	"hatsec-,hârowâk,waha-"	Borong,Burum,Dedua,Kate,Komba,Kube,Mape,Mindik,Selepet,Timbe,Tobo	154
+i	i	I	Vowel	801	U+0069	"ide-,siwiŋe-,siŋiaha"	Borong,Burum,Dedua,Kate,Komba,Kube,Mape,Mesem,Mindik,Nabak,Ono,Selepet,Timbe,Tobo	801
+k	k	K	Consonant	700	U+006B	"gbaok gbaok,kot-,ŋatik"	Borong,Burum,Dedua,Kate,Komba,Kube,Mape,Mesem,Mindik,Nabak,Ono,Selepet,Timbe,Tobo	700
+l	l	L	Consonant	190	U+006C	"fegle-,lį,sâliku-"	Borong,Burum,Komba,Kube,Mesem,Mindik,Nabak,Ono,Selepet,Timbe,Tobo	190
+m	m	M	Consonant	411	U+006D	"menda-,neselam-,ŋetŋemidaine"	Borong,Burum,Dedua,Kate,Komba,Kube,Mape,Mesem,Mindik,Nabak,Ono,Selepet,Timbe,Tobo	411
+n	n	N	Consonant	469	U+006E	"kana,kun-,naŋgo-"	Borong,Burum,Dedua,Kate,Komba,Kube,Mape,Mesem,Mindik,Nabak,Ono,Selepet,Timbe,Tobo	469
+o	o	U	Vowel	525	U+006F	"kousu,motooŋgok,poet"	Borong,Burum,Dedua,Kate,Komba,Kube,Mape,Mesem,Mindik,Nabak,Ono,Selepet,Timbe,Tobo	525
+p	p	P	Consonant	265	U+0070	"kokolak kpe-,pik-,tep-"	Borong,Burum,Dedua,Kate,Komba,Kube,Mape,Mesem,Mindik,Nabak,Ono,Selepet,Timbe,Tobo	265
+r	r	R	Consonant	275	U+0072	"dari-,gbaru,hâroŋne"	Borong,Burum,Dedua,Kate,Komba,Kube,Mape,Mesem,Mindik,Nabak,Ono,Selepet,Timbe,Tobo	275
+s	s	S	Consonant	313	U+0073	"kisa,suri-,sək-"	Borong,Burum,Dedua,Kate,Komba,Kube,Mape,Mesem,Mindik,Nabak,Ono,Selepet,Timbe,Tobo	313
+t	t	T	Consonant	318	U+0074	"dumut-,pet,somata"	Borong,Burum,Dedua,Kate,Komba,Kube,Mape,Mesem,Mindik,Nabak,Ono,Selepet,Timbe,Tobo	318
+u	u	Y	Vowel	394	U+0075	"dewutâ hâdâhân gâtŋe,gbimgiliu-,nup"	Borong,Burum,Dedua,Kate,Komba,Kube,Mape,Mesem,Mindik,Nabak,Ono,Selepet,Timbe,Tobo	394
+w	w	W	Consonant	172	U+0077	"denowo,ewe-,witik"	Borong,Burum,Dedua,Kate,Komba,Kube,Mape,Mesem,Mindik,Nabak,Ono,Selepet,Timbe,Tobo	172
+y	y	Y	Vowel	58	U+0079	"oyaŋ-,yak,yeni"	Borong,Burum,Dedua,Kate,Komba,Kube,Mape,Mesem,Mindik,Nabak,Ono,Selepet,Timbe,Tobo	58
+z	z	S	Consonant	174	U+007A	"dzigâ,kadze-,zâk"	Borong,Burum,Dedua,Kate,Komba,Kube,Mape,Mesem,Mindik,Nabak,Ono,Tobo	174
+â	ɔ	U	Vowel	463	U+00E2	"gâru-,gârâkŋi,wuân"	Burum,Dedua,Kate,Komba,Mape,Mindik,Ono,Selepet,Timbe,Tobo	463
+ą	ą/a	A	Vowel	4	U+0105	"gą,tą,ą"	Mesem	4
+į	į/i	I	Vowel	3	U+012F	"asį,lį,nį"	Mesem	3
+ŋ	ŋ	N	Consonant	425	U+014B	"mic mâŋ,oloŋ-,raŋgbaŋ"	Borong,Burum,Dedua,Kate,Komba,Kube,Mape,Mesem,Mindik,Nabak,Ono,Selepet,Timbe,Tobo	425
+ɔ	ɔ	U	Vowel	8	U+0254	"kɔu,pɔp-,ɔtɔpe-"	Nabak	8
+ə	ə	E	Vowel	105	U+0259	"osə-,tə,ək"	Mesem,Nabak	105
+ṃ	m̩	M	Consonant	2	U+1E43	"kepṃ,kipkipṃ"	Mesem	2
+ṇ	n̩	N	Consonant	3	U+1E47	"kokŋ̣ kpiəkṇ,kəitṇ,sagatṇ"	Mesem	3
+ọ	ọ/o	U	Vowel	1	U+1ECD	"gọ"	Mesem	1
+ŋ̣	ŋ	N	Consonant	3	U+014B U+0323	"kokŋ̣,kokŋ̣ kpiəkṇ,kukŋ̣"	Mesem	3
