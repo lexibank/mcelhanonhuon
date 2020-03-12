@@ -30,5 +30,5 @@ Conceptlists in Concepticon:
 - **Cognate Diversity:** 0.44
 - **Invalid lexemes:** 0
 - **Tokens:** 9,714
-- **Segments:** 32 (0 BIPA errors, 0 CTLS sound class errors, 32 CLTS modified)
+- **Segments:** 31 (0 BIPA errors, 0 CTLS sound class errors, 31 CLTS modified)
 - **Inventory size (avg):** 23.21
