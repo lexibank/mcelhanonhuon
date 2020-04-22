@@ -1,4 +1,4 @@
-# McElhanon 1967 Huon Peninsula data
+# CLDF dataset derived from McElhanon's "Preliminary Observations on Huon Peninsula Languages" from 1967
 
 Cite the source dataset as
 
@@ -32,3 +32,12 @@ Conceptlists in Concepticon:
 - **Tokens:** 9,714
 - **Segments:** 31 (0 BIPA errors, 0 CTLS sound class errors, 31 CLTS modified)
 - **Inventory size (avg):** 23.21
+
+# Contributors
+
+Name               | GitHub user     | Description                          | Role
+---                | ---             | ---                                  | ---
+Simon J. Greenhill | @SimonGreenhill | patron                               | Author
+Tiago Tresoldi     | @tresoldi       | profile                              | Author
+
+

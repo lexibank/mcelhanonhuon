@@ -11,14 +11,14 @@
     "dc:license": "CC-BY",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "McElhanon 1967 Huon Peninsula data",
+    "dc:title": "CLDF dataset derived from McElhanon's \"Preliminary Observations on Huon Peninsula Languages\" from 1967",
     "dcat:accessURL": "https://github.com/lexibank/mcelhanonhuon",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/mcelhanonhuon",
-            "dc:created": "23dedf2"
+            "dc:created": "19f01e0"
         },
         {
             "rdf:type": "prov:Entity",
@@ -118,6 +118,14 @@
                     {
                         "datatype": "boolean",
                         "name": "Loan"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Graphemes"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Profile"
                     }
                 ],
                 "foreignKeys": [
