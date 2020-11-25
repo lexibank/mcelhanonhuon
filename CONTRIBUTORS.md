@@ -2,5 +2,6 @@
 
 Name               | GitHub user     | Description                          | Role
 ---                | ---             | ---                                  | ---
-Simon J. Greenhill | @SimonGreenhill | patron                               | Author
-Tiago Tresoldi     | @tresoldi       | profile                              | Author
+Simon J. Greenhill | @SimonGreenhill | patron                               | Other
+K. A. McElhanon | | original data collection | Author
+Tiago Tresoldi     | @tresoldi       | profile                              | Other

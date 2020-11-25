@@ -1,0 +1,30 @@
+{
+    "title": "CLDF dataset derived from McElhanon's \"Preliminary Observations on Huon Peninsula Languages\" from 1967",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "K. A. McElhanon"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Simon J. Greenhill",
+            "type": "Other"
+        },
+        {
+            "name": "Tiago Tresoldi",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p> McElhanon, K.A. 1967. Preliminary Observations on Huon Peninsula Languages. Oceanic Linguistics. 6, 1-45.</p>\n</blockquote>"
+}

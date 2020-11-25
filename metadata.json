@@ -1,7 +1,7 @@
 {
     "title": "CLDF dataset derived from McElhanon's \"Preliminary Observations on Huon Peninsula Languages\" from 1967",
     "url": "http://transnewguinea.org/source/mcelhanon-1967",
-    "license": "CC-BY",
+    "license": "CC-BY-4.0",
     "conceptlist": "McElhanon-1967-140",
     "citation": " McElhanon, K.A. 1967. Preliminary Observations on Huon Peninsula Languages. Oceanic Linguistics. 6, 1-45."
 }
