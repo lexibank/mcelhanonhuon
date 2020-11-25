@@ -1,4 +1,10 @@
 Grapheme	IPA	SCA	TYPES	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES	frequency
+-$	NULL							
+^-	NULL
+dz	dz
+ts	ts
+kp	kp
+gb	gb
 -	+	_	Marker	936	U+002D	"bet-,dziŋgəŋgəŋ-,gum kət-"	Borong,Burum,Dedua,Kate,Komba,Kube,Mape,Mesem,Mindik,Nabak,Ono,Selepet,Timbe,Tobo	936
 a	a	A	Vowel	903	U+0061	"kama,sâhap,wania"	Borong,Burum,Dedua,Kate,Komba,Kube,Mape,Mesem,Mindik,Nabak,Ono,Selepet,Timbe,Tobo	903
 b	b	P	Consonant	211	U+0062	"kumbu,soŋgbaŋ-,ârâŋbârik"	Borong,Burum,Dedua,Kate,Komba,Kube,Mape,Mesem,Mindik,Nabak,Ono,Selepet,Timbe,Tobo	211
