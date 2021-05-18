@@ -26,5 +26,8 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p> McElhanon, K.A. 1967. Preliminary Observations on Huon Peninsula Languages. Oceanic Linguistics. 6, 1-45.</p>\n</blockquote>"
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p> McElhanon, K.A. 1967. Preliminary Observations on Huon Peninsula Languages. Oceanic Linguistics. 6, 1-45.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
 }

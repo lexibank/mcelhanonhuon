@@ -4,7 +4,7 @@ Cite the source dataset as
 
 >  McElhanon, K.A. 1967. Preliminary Observations on Huon Peninsula Languages. Oceanic Linguistics. 6, 1-45.
 
-This dataset is licensed under a CC-BY license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at http://transnewguinea.org/source/mcelhanon-1967
 
