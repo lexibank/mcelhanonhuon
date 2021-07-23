@@ -32,20 +32,15 @@ class Dataset(BaseDataset):
         """
         args.writer.add_sources()
         languages = args.writer.add_languages(
-            lookup_factory=lambda l: l[
-                "ID"
-            ].lower()  # lower case in raw data, so title case
+            lookup_factory=lambda l: l["ID"].lower()  # lower case in raw data, so title case
         )
         concepts = args.writer.add_concepts(
-            id_factory=lambda c: c.id.split("-")[-1] + "_" + slug(c.english),
-            lookup_factory="Name",
+            id_factory=lambda c: c.id.split("-")[-1] + "_" + slug(c.english), lookup_factory="Name"
         )
 
         cog = CognateRenumber()
 
-        for row in self.raw_dir.read_csv(
-            "mcelhanon-1967.tsv", dicts=True, delimiter="\t"
-        ):
+        for row in self.raw_dir.read_csv("mcelhanon-1967.tsv", dicts=True, delimiter="\t"):
             lex = args.writer.add_forms_from_value(
                 Local_ID=row["ID"],
                 Language_ID=languages[row["Language"]],
@@ -66,6 +61,4 @@ class Dataset(BaseDataset):
                 raise ValueError("Multiple cognates per lexeme are not handled")
 
             assert len(lex) == 1, "Should only have one lexeme"
-            args.writer.add_cognate(
-                lexeme=lex[0], Cognateset_ID=cog_id, Source="McElhanon1967"
-            )
+            args.writer.add_cognate(lexeme=lex[0], Cognateset_ID=cog_id, Source="McElhanon1967")
