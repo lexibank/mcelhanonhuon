@@ -23,7 +23,7 @@ class CognateRenumber(object):
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "mcelhanonhuon"
-
+    writer_options = dict(keep_languages=False, keep_parameters=False)
     form_spec = FormSpec(missing_data=("-", ""))
 
     def cmd_makecldf(self, args):

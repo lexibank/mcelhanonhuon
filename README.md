@@ -29,8 +29,8 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 14
-- **Concepts:** 140
+- **Varieties:** 14 (linked to 13 different Glottocodes)
+- **Concepts:** 140 (linked to 140 different Concepticon concept sets)
 - **Lexemes:** 1,960
 - **Sources:** 1
 - **Synonymy:** 1.00
@@ -38,15 +38,15 @@ Conceptlists in Concepticon:
 - **Cognate Diversity:** 0.44
 - **Invalid lexemes:** 0
 - **Tokens:** 8,513
-- **Segments:** 35 (0 BIPA errors, 0 CTLS sound class errors, 35 CLTS modified)
+- **Segments:** 35 (0 BIPA errors, 0 CLTS sound class errors, 35 CLTS modified)
 - **Inventory size (avg):** 25.14
 
 # Contributors
 
 Name               | GitHub user     | Description                          | Role
 ---                | ---             | ---                                  | ---
-Simon J. Greenhill | @SimonGreenhill | patron                               | Other
-K. A. McElhanon | | original data collection | Author
+Simon J. Greenhill | @SimonGreenhill | patron                               | Editor
+Kenneth A. McElhanon | | original data collection | Author
 Tiago Tresoldi     | @tresoldi       | profile                              | Other
 
 
